@@ -57,3 +57,8 @@ header_wrapper_class = "header-default-bg-img"
     name = "About"
     url = "/about"
     weight = 2
+
+[[menu.main]]
+    name = "Resources"
+    url = "/resources"
+    weight = 3
