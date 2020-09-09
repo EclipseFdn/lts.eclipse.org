@@ -1,5 +1,5 @@
 ---
-title: "FAQ"
+title: "Frequently Asked Questions"
 date: 2020-08-11T11:00:00-04:00
 description: ""
 layout: "single"
@@ -26,22 +26,22 @@ There are four membership levels: Guest, Participant, Premium, and, Steering Com
 
 *   **Steering Committee members** have Premium level access and also governance influence over the direction of the IWG such as budget and resource allocation
 
-*   [Back to Top](/about/faq#faq-top "Go back to the top of the page.")
+   [Back to Top](/about/faq#faq-top "Go back to the top of the page.")
 
 [How does LTS work?](/about/faq/how-does-lts-work)
 
 The Eclipse LTS Industry Working Group enables an ecosystem of service providers, technology providers and large enterprise consumers of Eclipse to share fixes and releases.  It also provides the IT infrastructure to fix, build, sign and deploy updates for older versions of Eclipse. The LTS infrastructure includes code repositories, bug tracking, knowledge management, and software distribution & code signing.
 
-*   [Back to Top](/about/faq#faq-top "Go back to the top of the page.")
+   [Back to Top](/about/faq#faq-top "Go back to the top of the page.")
 
 [What is the purpose of LTS?](/about/faq/what-purpose-lts)
 
 Long Term Support provides the infrastructure and ecosystem for the support of Eclipse in industries that require Eclipse releases to be maintained over a very long time. Industries such as aerospace, automotive, and enterprise software are expected to support their software stack for 10-50 years. Often, community-based support is not enough to meet customer expectations. The Eclipse LTS initiative allows these companies to release bug fixes and maintenance releases of previous versions of Eclipse technologies.
 
-*   [Back to Top](/about/faq#faq-top "Go back to the top of the page.")
+   [Back to Top](/about/faq#faq-top "Go back to the top of the page.")
 
 [Is the code in LTS open source?](/about/faq/code-lts-open-source)
 
 The code hosted by the LTS working group remains open source, licensed under the same open source license. For example, the EPL.
 
-*   [Back to Top](/about/faq#faq-top "Go back to the top of the page.")
+   [Back to Top](/about/faq#faq-top "Go back to the top of the page.")

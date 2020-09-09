@@ -4,10 +4,6 @@ date: 2020-08-11T11:00:00-04:00
 description: ""
 ---
 
-[![Lisa Lasher's picture](https://secure.gravatar.com/avatar/f6a5e05a580923eef0fba61733977ff2.jpg?d=mm&s=185&r=G "Lisa Lasher's picture")](/users/lisa-lasher "View user profile.")
-
-Submitted by [Lisa Lasher](/users/lisa-lasher "View user profile.") on Tue, 2013-10-29 15:10
-
 The LTS initiative is open to any organization with an interest in long-term support and maintenance for Eclipse technology.  Members of the LTS working group must also be members of the Eclipse Foundation.
 
 There are four membership levels: Guest, Participant, Premium, and, Steering Committee.
@@ -19,5 +15,3 @@ There are four membership levels: Guest, Participant, Premium, and, Steering Com
 *   **Premium members** have Participant level access as well as access to the LTS forge and build farm.
 
 *   **Steering Committee members** have Premium level access and also governance influence over the direction of the IWG such as budget and resource allocation
-
-*   [Sign in](/user/login?destination=content/who-can-participate-lts#comment-form-title) to post comments.
