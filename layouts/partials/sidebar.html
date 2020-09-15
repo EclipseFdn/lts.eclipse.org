@@ -22,7 +22,7 @@
     {{$parentItem := . }}
     
     <!-- as long as has children, removed condition equal currentSection, to show on all pages -->
-      {{ if and (.HasChildren) }}
+      {{ if .HasChildren }}
         <aside id="main-sidebar" class="subpage-sidebar">
         <ul id="leftnav" class="ul-left-nav fa-ul hidden-print">
         <li class="separator">

@@ -68,8 +68,7 @@ pluralizeListTitles = false
   url = "/about/faq/"
   weight = 4
 
-#######################
-
+# GET SUPPORT Sidebar
 [[menu.sidebar]]
   name = "GET SUPPORT"
   weight = 1
@@ -89,8 +88,7 @@ pluralizeListTitles = false
   weight = 3
   identifier = "get-help"
 
-#################################
-
+# LTS FLYOVER Sidebar
 [[menu.sidebar]]
   name = "LTS FLYOVER"
   weight = 4
@@ -130,5 +128,3 @@ pluralizeListTitles = false
   url = "/about/request-help/"
   weight = 9
   identifier = "request-help"
-
-######################
