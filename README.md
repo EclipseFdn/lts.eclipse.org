@@ -4,8 +4,6 @@ The [https://lts.eclipse.org](https://lts.eclipse.org) website is generated with
 
 The Eclipse lts Working Group seeks to drive the evolution and adoption of the Eclipse lts protocol and related MQTT-based technologies that enable the creation of open, collaborative, interoperable, and scalable Industrial IoT (IIoT) solutions and provide support for Industry 4.0.
 
-[![Build Status](https://travis-ci.org/eclipsefdn/lts.eclipse.org.svg?branch=master)](https://travis-ci.org/eclipsefdn/lts.eclipse.org)
-
 ## Getting started
 
 Install dependencies, build assets and start a webserver:
