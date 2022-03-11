@@ -1,3 +1,6 @@
-@Library('common-shared') _
+@Library('releng-pipeline') _
 
-hugoWebsitePipeline appname: 'lts.eclipse.org'
+hugo (
+  appName: 'lts.eclipse.org',
+  productionDomain: 'lts.eclipse.org'
+)
