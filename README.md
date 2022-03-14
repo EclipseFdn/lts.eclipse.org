@@ -4,6 +4,7 @@
 **NOTE**
 
 This project was migrated to [Eclipse Gitlab](https://gitlab.eclipse.org/eclipsefdn/it/websites/lts.eclipse.org) on March 11, 2022.
+
 ---
 
 The [https://lts.eclipse.org](https://lts.eclipse.org) website is generated with [Hugo](https://gohugo.io/documentation/). This project is a work in progress. 
